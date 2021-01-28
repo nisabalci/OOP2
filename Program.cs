@@ -8,7 +8,7 @@ namespace OOP2
         {
             TuzelMusteri musteri1 = new TuzelMusteri();
             musteri1.Id = 2;
-            musteri1.MusteriNo = "54321";
+            musteri1.MusteriNo = "545454";
             musteri1.SirketAdi = "NB Software";
             musteri1.VergiNo = "1234567890";
 
